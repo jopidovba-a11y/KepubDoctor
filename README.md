@@ -67,7 +67,7 @@ Files are saved with a `_healed` suffix through the system file picker, so the o
 <table>
   <tr>
     <align="center">
-      <img width="400" alt="Screenshot_2026-10-30-10-41-24-923_com example kepubdoctor" src="https://github.com/user-attachments/assets/b4b3c23d-125f-4c62-aee4-4763da3e9edb">
+      <img width="1220" height="2712" alt="Screenshot_2026-10-30-10-52-25-131_com example kepubdoctor" src="https://github.com/user-attachments/assets/a6f7bb89-9a99-4f68-8847-afea7304dedb" />
     </td>
   </tr>
 </table>
