@@ -1,6 +1,7 @@
 # KepubDoctor
 
-An Android app that repairs EPUB files and converts them to Kobo's KEPUB format, tuned for e-readers. Everything runs on your phone: no internet access, no accounts, no permissions.
+An Android app that repairs EPUB files and converts them to Kobo's KEPUB format, tuned for e-readers.
+It's been specially made to fix common mistakes I've found in scraped books I've downloaded but it also works great for normal books. Everything runs on your phone: no internet access, no accounts, no permissions.
 
 ## Features
 
